@@ -5,7 +5,7 @@ Welcome to the Conway's Game of Life project! This document will guide you on ho
 ## Running the Project
 
 ### Using a Live Server Extension
-
+asxasx
 1. If you haven't already, install a live server extension for your code editor. Some popular choices include:
    - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for Visual Studio Code
    - [Live Server](https://chrome.google.com/webstore/detail/live-server-web-extension/fiegdmejfepffgpnejdinekhfieaogmj) for Chrome
